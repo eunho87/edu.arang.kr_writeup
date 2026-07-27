@@ -1,5 +1,6 @@
 ## XSS-1
-[](images/1.png)
+
+![](images/1.png)
 스크립트를 넣었을 때 alert 구문이 제대로 작동하는 것을 확인하였다.
 
 ```html
