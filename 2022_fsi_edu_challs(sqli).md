@@ -1,4 +1,4 @@
-## 2022_fsi_edu_challs
+## 2022_fsi_edu_challs(sqli)
 
 ```
 insert into users (userid, userpw)values ("admin", sha2("th1s_1s_adm111n_p4ssw0rd",256)); #admin password 가리기
